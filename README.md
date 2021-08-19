@@ -36,7 +36,7 @@ Casi todo es de https://developer.mozilla.org/es/ , uno de los mejores lugares p
 
 ## Selenium
 
-* [Documentación oficial](https://selenium-python.readthedocs.io/)
+* [Documentación NO oficial, pero útil](https://selenium-python.readthedocs.io/)
 * [Selenium FULL COURSE - Learn Selenium by creating a bot in 3 hours [2021]](https://youtu.be/6gxhcvrf2Jk)
 * [Web Scraping using Selenium and Python](https://www.scrapingbee.com/blog/selenium-python/)
 
@@ -48,7 +48,7 @@ Casi todo es de https://developer.mozilla.org/es/ , uno de los mejores lugares p
 
 ## Libros
 
-[Web Scraping with Python, 2nd Edition](https://www.oreilly.com/library/view/web-scraping-with/9781491985564/)
-[Hands-On Web Scraping with Python](https://www.amazon.com/Hands-Web-Scraping-Python-operations-ebook/dp/B07VFFYPGK)
+* [Web Scraping with Python, 2nd Edition](https://www.oreilly.com/library/view/web-scraping-with/9781491985564/)
+* [Hands-On Web Scraping with Python](https://www.amazon.com/Hands-Web-Scraping-Python-operations-ebook/dp/B07VFFYPGK)
 
 
