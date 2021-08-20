@@ -49,6 +49,7 @@ Casi todo es de https://developer.mozilla.org/es/ , uno de los mejores lugares p
 ## Libros
 
 * [Web Scraping with Python, 2nd Edition](https://www.oreilly.com/library/view/web-scraping-with/9781491985564/)
+  * [Código asociado al libro](https://github.com/REMitchell/python-scraping)
 * [Hands-On Web Scraping with Python](https://www.amazon.com/Hands-Web-Scraping-Python-operations-ebook/dp/B07VFFYPGK)
 
 
