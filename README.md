@@ -9,6 +9,13 @@ El contenido aquí expuesto excede lo que se vió en a clase, pero me parece que
 
 # Recursos
 
+* [Web general](#Web-general)
+* [Web scraping general](#Web-scraping-general)
+* [Beautiful Soup](#Beautiful-Soup)
+* [Selenium](#Selenium)
+* [Scrapy](#Scrapy)
+* [Libros](#Libros)
+
 ## Web general
 Casi todo es de https://developer.mozilla.org/es/ , uno de los mejores lugares para buscar referencia sobre tecnologías web.
 
