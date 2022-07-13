@@ -29,7 +29,7 @@ Casi todo es de https://developer.mozilla.org/es/ , uno de los mejores lugares p
 ## Web scraping general
 
 * [Contenido del curso <b>Scraping con Python</b>](https://github.com/institutohumai/cursos-python/tree/master/Scraping)
-  * Curso dictado por [Mathias Gatti](https://github.com/mathigatti) en [humai](https://www.ihum.ai/).
+  * Curso dictado por [Mathias Gatti](https://github.com/mathigatti), [Matías Grinberg](https://github.com/Cerebrock) y [Gustavo Juantorena](https://github.com/gej1) en [humai](https://www.ihum.ai/).
 * [Clases 18 y 19 de la materia <b>Laboratorio de datos</b> (FCEyN, UBA. 1er cuatrimestre 2021)](http://materias.df.uba.ar/lda2021c1/171-2/)
   * Videos de las clases, slides y Notebooks para interacción con APIs (clase 18) y web scraping (clase 19).
   * Docentes a cargo: Enzo Tagliazucchi, Sebastián Pinto, Tomás Cicchini y Ariel Berardino.
