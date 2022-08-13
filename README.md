@@ -2,7 +2,7 @@
 Recursos básicos para iniciarse en web scraping usando Python. 
 
 
-Clase dictada por [Gustavo Juantorena](https://github.com/GEJ1) como docente invitado en la materia <b>Text Mining</b> de la  [Maestría en Explotación de Datos y Descubrimiento de Conocimiento](http://datamining.dc.uba.ar/datamining/) de la Universidad de Buenos Aires.
+Clase dictada por Gustavo Juantorena ([github](https://github.com/GEJ1) / [Linkedin](https://www.linkedin.com/in/gustavo-juantorena/) como docente invitado en la materia <b>Text Mining</b> de la  [Maestría en Explotación de Datos y Descubrimiento de Conocimiento](http://datamining.dc.uba.ar/datamining/) de la Universidad de Buenos Aires.
 El contenido aquí expuesto excede lo que se vió en a clase, pero me parece que está bueno que lo tengan como referencia para profundizar los contenidos.
 * [Slides de la clase](https://docs.google.com/presentation/d/10-lc2Y6kMVHp7FO9v8ReZdY1MPwUlgxWIsSDePY0afg/edit?usp=sharing)
 * [Notebook de la clase](https://github.com/GEJ1/web-scraping-python/blob/main/web_scraping_maestria.ipynb)
