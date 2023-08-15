@@ -7,6 +7,8 @@ El contenido aquí expuesto excede lo que se vió en a clase, pero me parece que
 * [Slides de la clase](https://docs.google.com/presentation/d/10-lc2Y6kMVHp7FO9v8ReZdY1MPwUlgxWIsSDePY0afg/edit?usp=sharing)
 * [Notebook de la clase](https://github.com/GEJ1/web-scraping-python/blob/main/web_scraping_maestria.ipynb)
 
+**Update 2023**: Cree un curso para [freeCodeCamp](https://www.freecodecamp.org/espanol/news/) que incluye la mayorìa del contenido de esta clase y pueden [verlo acá](https://github.com/GEJ1/web_scraping_freecodecamp)
+
 # Recursos
 
 * [Web general](#Web-general)
