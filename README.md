@@ -41,7 +41,7 @@ Casi todo es de https://developer.mozilla.org/es/ , uno de los mejores lugares p
 ## Beautiful Soup
 
 * [Documentación oficial](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-* [Web Scraping with Python - Beautiful Soup Crash Course](https://youtu.be/XVv6mJpFOb0)
+* [Web Scraping con Python - Curso con Beautiful Soup]([https://youtu.be/XVv6mJpFOb0](https://youtu.be/yKi9-BfbfzQ?si=xctK_jsyzpm7hYMB))
 * [Beautiful Soup: Build a Web Scraper With Python](https://realpython.com/beautiful-soup-web-scraper-python/)
 
 
