@@ -8,7 +8,7 @@ El contenido aquí expuesto excede lo que se vió en a clase, pero me parece que
 * [Primer Notebook de la clase (APIs + Beautiful Soup)](https://github.com/GEJ1/web-scraping-python/blob/main/web_scraping_maestria.ipynb)
 * [Segunda Notebook de la clase (Selenium)](https://github.com/GEJ1/web-scraping-python/blob/main/Selenium_2023.ipynb)
 
-**Update 2023**: Cree un curso para [freeCodeCamp](https://www.freecodecamp.org/espanol/news/) que incluye la mayorìa del contenido de esta clase y pueden [verlo acá](https://github.com/GEJ1/web_scraping_freecodecamp)
+**Update 2023**: Cree un curso para [freeCodeCamp](https://www.freecodecamp.org/espanol/news/aprende-web-scraping-con-python-y-beautiful-soup-en-espanol-curso-desde-cero/) que incluye la mayorìa del contenido de esta clase y pueden [verlo acá](https://github.com/GEJ1/web_scraping_freecodecamp)
 
 # Recursos
 
